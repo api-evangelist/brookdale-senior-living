@@ -1,7 +1,12 @@
 aid: brookdale-senior-living
-url: https://raw.githubusercontent.com/api-evangelist/brookdale-senior-living/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/brookdale-senior-living/refs/heads/main/apis.yml
 modified: '2026-03-23'
 apis: []
 common:
   - type: Website
     url: https://www.brookdale-senior-living.com
+description: >-
+  Brookdale Senior Living is one of the largest operators of senior living communities
+  in the United States, offering independent living, assisted living, memory care,
+  and skilled nursing services.
