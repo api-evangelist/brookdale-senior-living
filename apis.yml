@@ -15,7 +15,7 @@ tags:
   - Senior Care
   - Senior Living
   - Skilled Nursing
-x-type: company
+kind: company
 apis: []
 common:
   - type: Website
