@@ -18,6 +18,8 @@ tags:
 kind: company
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/brookdale-senior-living
   - type: Website
     url: https://www.brookdale.com
   - type: PrivacyPolicy
