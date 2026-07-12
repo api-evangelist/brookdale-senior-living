@@ -19,6 +19,8 @@ tags:
 kind: company
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/brookdale-senior-living-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/brookdale-senior-living
   - type: Website
