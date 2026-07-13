@@ -2,13 +2,10 @@
   "repo": "brookdale-senior-living",
   "feeds": [
     {
-      "source": "https://www.brookdale.com/en/brookdale-life.html",
-      "feed_url": "",
-      "saved": 1,
-      "method": "agent-scrape"
+      "source": "https://www.brookdale.com/en/contact-us.html",
+      "error": "HTTPError"
     }
   ],
   "post_count": 3,
-  "fetched": "2026-06-27T12:29:56Z",
-  "agent_pulled": "2026-06-27"
+  "fetched": "2026-07-11T11:50:51Z"
 }
