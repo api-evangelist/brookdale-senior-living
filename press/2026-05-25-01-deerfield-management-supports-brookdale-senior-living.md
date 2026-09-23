@@ -1,7 +1,9 @@
 ---
 title: Deerfield Management Supports Brookdale Senior Living
 url: https://deerfield.com/news/deerfield-management-supports-brookdale-senior-living
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Brookdale Senior Living" press release artificial intelligence'
 position: 1
 source: serpapi-google

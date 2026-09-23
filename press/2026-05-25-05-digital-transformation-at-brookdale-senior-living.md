@@ -1,7 +1,9 @@
 ---
 title: Digital Transformation at Brookdale Senior Living
 url: https://pintel.ai/digital-transformation/brookdale-senior-living
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Brookdale Senior Living" press release artificial intelligence'
 position: 5
 source: serpapi-google
